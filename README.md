@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Batın</h1>
-<h3 align="center">As a 19-year-old software company owner, I'm actively improving myself Cyber Security</h3>
+<h3 align="center">As a 20-year-old software company owner, I'm actively improving myself AI Engineering</h3>
 
 ---
 
 - 🚀 Things I'm currently working on:  
-  `Cyber Security`, `Entrepreneurship`, `Software Development`
+  `Super Intelligence`, `Cyber Security`,
 
 - 🌐 Software Company: [Flow Yazılım](https://flowyazilim.com)
+- 🌐 Advertising Agency: [Flow Reklam](https://flowreklam.com.tr)
 
 ---
 
 ### 🚀 Skills
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,powershell,bash,php,debian,git,arduino,vscode" />
+Cyber Security & System Engineering
+<img src="https://skillicons.dev/icons?i=arch,kali,powershell,bash,debian,cloudflare,supabase,windows" />
 
 ---
 
