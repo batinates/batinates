@@ -12,8 +12,11 @@
 ---
 
 ### 🚀 Skills
-Cyber Security & System Engineering
+Cyber Security & System Engineering<br>
 <img src="https://skillicons.dev/icons?i=arch,kali,powershell,bash,debian,cloudflare,supabase,windows" />
+
+Development<br>
+<img src="https://skillicons.dev/icons?i=py,js,arduino,html,css,django,fastapi,firebase,flask,git,mongodb,mysql,nodejs,sqlite,supabase,sklearn,vscode" />
 
 ---
 
